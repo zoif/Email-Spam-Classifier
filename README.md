@@ -1,2 +1,2 @@
 # Email-Spam-Classifier
-This is a ML model which can be used to classify an email as spam.
+Machine Learning model which can be used to specify emails as Spam.
